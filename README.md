@@ -1,4 +1,4 @@
 # ddg
 dice game
 
-WIP
+(work in progress)
