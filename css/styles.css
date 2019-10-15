@@ -1,0 +1,14 @@
+
+img {
+    margin: auto 5%;
+}
+
+p {
+    font-family: verdana;
+    font-size: 25px;
+    padding-bottom: 2%;
+}
+
+.imagens {
+    display: none;
+}
